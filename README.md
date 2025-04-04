@@ -1,5 +1,10 @@
 # TEREA, IQOS, TEREA IQOS SATIN AL
 
+📌 Bu GitHub sayfası, [TEREA IQOS Resmi Web Sitesi](http://terea-iqos.com/) adına yayınlanmıştır.  
+Tüm içeriklerin orijinal kaynağı: [http://terea-iqos.com/](http://terea-iqos.com/)
+
+---
+
 ## TEREA IQOS’un Temel Özellikleri
 
 - **Duman Değil Buhar**: TEREA IQOS, yakma işlemi yapmadığı için gerçek duman yerine aerosol (buhar) üretir.
@@ -74,8 +79,9 @@ Cihazı satın aldığınız mağaza ya da distribütör ile iletişime geçerek
 
 ---
 
-## Sonuç
+## 📌 Resmi Web Sitesi
 
-**TEREA IQOS**, tütün tüketimini daha az zararlı hale getirmek isteyen bireyler için modern, temiz ve etkili bir alternatif sunmaktadır. Eğer siz de klasik sigaranın kötü kokusundan ve zararlı etkilerinden uzaklaşmak istiyorsanız, TEREA IQOS sistemlerini incelemeniz faydalı olacaktır.
+Tüm detaylar, kampanyalar ve güncellemeler için:  
+👉 [http://terea-iqos.com/](http://terea-iqos.com/)
 
 > 🚨 Uyarı: Bu içerik bilgilendirme amaçlıdır. Tütün ürünleri bağımlılık yapar ve sağlık açısından risk teşkil eder. En sağlıklı seçenek hiçbir tütün ürünü kullanmamaktır.
