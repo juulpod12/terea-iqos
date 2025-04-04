@@ -1,6 +1,6 @@
 # TEREA, IQOS, TEREA IQOS SATIN AL
 
-## <a href="https://podsturkiye6.com" title="jull">JULL SATIN ALMAK İÇİN TIKLA</a>
+👉 👉  ## <a href="https://podsturkiye6.com" title="jull">JULL SATIN ALMAK İÇİN TIKLA</a>
 📌 Bu GitHub sayfası, [TEREA IQOS Resmi Web Sitesi](http://terea-iqos.com/) adına yayınlanmıştır.  
 Tüm içeriklerin orijinal kaynağı: [http://terea-iqos.com/](http://terea-iqos.com/)
 
