@@ -4,6 +4,7 @@
 
 📌 Bu GitHub sayfası, [TEREA IQOS Resmi Web Sitesi](https://terea-iqos.com/) adına yayınlanmıştır.  
 Tüm içeriklerin orijinal kaynağı: [http://terea-iqos.com/](https://terea-iqos.com/)
+<a href="https://t.me/+bRz_RtrKcG4zODI0" target="_blank" style="font-weight: bold; color: #0077cc; text-decoration: underline;">➡️ Telegram Bilgi Kanalı (Tıklayın)</a>
 
 
 ---
